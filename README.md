@@ -18,14 +18,14 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ## Testes de Software
 
-### Testes de Depuração
+### 📌 Testes de Depuração
 - A aplicação inclui testes unitários básicos com **JUnit** para garantir que cada método do serviço esteja funcionando corretamente.
 
-### Testes de Funcionamento
+### 📌 Testes de Funcionamento
 - **Testes de API**: Testes de integração foram implementados utilizando o **Spring Boot Test**, garantindo que os endpoints estejam respondendo corretamente e conforme o esperado.
 - **Testes com Postman**: Endpoints foram testados manualmente com o Postman para garantir sua funcionalidade e validar a comunicação com o backend.
 
-### Imagem do Teste
+### 📌 Imagem do Teste
 
 - Captura do teste realizado:
 
