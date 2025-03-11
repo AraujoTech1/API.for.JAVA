@@ -31,10 +31,12 @@ Aqui está uma captura de tela do teste realizado:
 
 ## Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-23-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-blue)
-![Maven](https://img.shields.io/badge/Maven-3.8.1-green)
-![GitHub](https://img.shields.io/badge/GitHub-API--for--JAVA-purple)
+![Java](https://img.shields.io/badge/Java-23-orange?logoWidth=40)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-blue?logoWidth=40)
+![Maven](https://img.shields.io/badge/Maven-3.8.1-green?logoWidth=40)
+![GitHub](https://img.shields.io/badge/GitHub-API--for--JAVA-purple?logoWidth=40)
+![VS Code](https://img.shields.io/badge/VS%20Code-1.79-blue?logo=visualstudiocode&logoWidth=40)
+![Git](https://img.shields.io/badge/Git-2.39.1-orange?logo=git&logoWidth=40)
 
 ## Bibliotecas e Frameworks
 
