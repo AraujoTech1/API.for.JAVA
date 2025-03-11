@@ -44,11 +44,21 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ## Bibliotecas e Frameworks
 
-- **Spring Boot**: Framework para criação de aplicações Java baseadas no Spring.
-- **Spring Data JPA**: Biblioteca para persistência de dados com banco de dados relacional.
-- **JUnit**: Framework para testes unitários.
-- **Swagger**: Para documentação automática da API.
-- **Postman**: Utilizado para testar manualmente os endpoints.
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-blue)
+  **Spring Boot**: Framework para criação de aplicações Java baseado no Spring.
+
+- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-2.5-blue)
+  **Spring Data JPA**: Biblioteca para persistência de dados com banco de dados relacional.
+
+- ![JUnit](https://img.shields.io/badge/JUnit-5.7.1-green)
+  **JUnit**: Framework para testes unitários.
+
+- ![Swagger](https://img.shields.io/badge/Swagger-UI-yellow)
+  **Swagger**: Para documentação automática da API.
+
+- ![Postman](https://img.shields.io/badge/Postman-7.36-blue)
+  **Postman**: Utilizado para testar manualmente os endpoints.
+
   
 
 ## Instruções para Execução
