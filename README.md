@@ -7,12 +7,14 @@ Este projeto consiste em uma **API RESTful** desenvolvida utilizando **Java 23**
 
 A aplicação foi construída para demonstrar a criação de endpoints, manipulação de dados e utilização de recursos como persistência e testes automatizados. O projeto é totalmente configurado com **Maven**, o que facilita o gerenciamento de dependências e a construção da aplicação.
 
+
 ## Funcionalidades do Projeto
 
 - **Endpoints RESTful**: O projeto oferece endpoints para realizar operações básicas de CRUD (Create, Read, Update, Delete).
 - **Persistência de Dados**: Utiliza o **Spring Data JPA** para persistir dados em um banco de dados relacional (MySQL, PostgreSQL, ou outro de sua escolha).
 - **Testes Automatizados**: A aplicação conta com testes de unidade e integração, garantindo que todas as funcionalidades estejam funcionando corretamente.
 - **Documentação Automática**: A API conta com documentação gerada automaticamente através do **Swagger**.
+- 
 
 ## Testes de Software
 
@@ -25,9 +27,10 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ### Imagem do Teste
 
-Aqui está uma captura de tela do teste realizado:
+- Captura do teste realizado:
 
-![Imagem de Teste](https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png)
+![Imagem teste](https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png)
+
 
 ## Tecnologias Utilizadas
 
@@ -38,6 +41,7 @@ Aqui está uma captura de tela do teste realizado:
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.79-blue?logo=visualstudiocode&logoWidth=40)
 ![Git](https://img.shields.io/badge/Git-2.39.1-orange?logo=git&logoWidth=40)
 
+
 ## Bibliotecas e Frameworks
 
 - **Spring Boot**: Framework para criação de aplicações Java baseadas no Spring.
@@ -45,6 +49,7 @@ Aqui está uma captura de tela do teste realizado:
 - **JUnit**: Framework para testes unitários.
 - **Swagger**: Para documentação automática da API.
 - **Postman**: Utilizado para testar manualmente os endpoints.
+  
 
 ## Instruções para Execução
 
