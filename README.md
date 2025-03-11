@@ -14,7 +14,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 - **Persistência de Dados**: Utiliza o **Spring Data JPA** para persistir dados em um banco de dados relacional (MySQL, PostgreSQL, ou outro de sua escolha).
 - **Testes Automatizados**: A aplicação conta com testes de unidade e integração, garantindo que todas as funcionalidades estejam funcionando corretamente.
 - **Documentação Automática**: A API conta com documentação gerada automaticamente através do **Swagger**.
-- 
+ 
 
 ## Testes de Software
 
@@ -53,11 +53,24 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ## Instruções para Execução
 
-1. **Clonar o repositório:**
+1. Clonar o repositório
+2. Instalar Dependências com Maven:
 
-   ```bash
-   git clone https://github.com/AraujoTech1/API.for.JAVA.git
+- No terminal, execute o seguinte comando para instalar as dependências:
 
+ ```mvn install```
+
+3. Executar a Aplicação:
+
+- Para iniciar uma API, execute o comando:
+
+```mvn spring-boot:run```
+
+4. Acessar a API:
+
+- A API estará disponível no endereço:
+
+```http://localhost:8080``` 
 
 
 ---
