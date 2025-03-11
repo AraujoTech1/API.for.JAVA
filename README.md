@@ -25,7 +25,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 - **Testes de API**: Testes de integração foram implementados utilizando o **Spring Boot Test**, garantindo que os endpoints estejam respondendo corretamente e conforme o esperado.
 - **Testes com Postman**: Endpoints foram testados manualmente com o Postman para garantir sua funcionalidade e validar a comunicação com o backend.
 
-### Captura do Teste Realizado:
+### 📌 Captura do Teste Realizado:
 
 <div align="center">
   <img src="https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png" alt="Imagem teste" style="max-width: 500px;"/>
