@@ -2,17 +2,17 @@
     <img width="100%" height="200px" src="https://blog.rocketseat.com.br/content/images/2024/03/java-3.png" alt="Java Logo">
 </p>
 
-<h1 align="center">API REST com Java e Spring Boot</h1>
+<h1 align="center"> ☕ API REST com Java e Spring Boot ☕</h1>
 
 
-## Descrição do Projeto
+## ▶ Descrição do Projeto
 
 Este projeto consiste em uma **API RESTful** desenvolvida utilizando **Java 23** e **Spring Boot**. O objetivo principal é oferecer uma estrutura simples e eficiente para a criação de APIs, com foco em performance e escalabilidade.
 
 A aplicação foi construída para demonstrar a criação de endpoints, manipulação de dados e utilização de recursos como persistência e testes automatizados. O projeto é totalmente configurado com **Maven**, o que facilita o gerenciamento de dependências e a construção da aplicação.
 
 
-## Funcionalidades 
+## ▶ Funcionalidades 
 
 - **Endpoints RESTful**: O projeto oferece endpoints para realizar operações básicas de CRUD (Create, Read, Update, Delete).
 - **Persistência de Dados**: Utiliza o **Spring Data JPA** para persistir dados em um banco de dados relacional (MySQL, PostgreSQL, ou outro de sua escolha).
@@ -20,7 +20,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 - **Documentação Automática**: A API conta com documentação gerada automaticamente através do **Swagger**.
  
 
-## Testes de Software
+## ▶ Testes de Software
 
 ### 📌 Testes de Depuração
 - A aplicação inclui testes unitários básicos com **JUnit** para garantir que cada método do serviço esteja funcionando corretamente.
@@ -35,7 +35,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
   <img src="https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png" alt="Imagem teste" style="max-width: 500px;"/>
 </div>
 
-## Tecnologias Utilizadas
+## ▶ Tecnologias Utilizadas
 
 ![Java](https://img.shields.io/badge/Java-23-24292F?logoWidth=40)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-24292F?logoWidth=40)
@@ -45,7 +45,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 ![Git](https://img.shields.io/badge/Git-2.39.1-24292F?logo=git&logoWidth=40)
 
 
-## Bibliotecas e Frameworks
+## ▶ Bibliotecas e Frameworks
 
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-24292F)
   **Spring Boot**: Framework para criação de aplicações Java baseado no Spring.
@@ -63,7 +63,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
   **Postman**: Utilizado para testar manualmente os endpoints.
 
 
-## Instruções para Execução
+## ▶ Instruções para Execução
 
 1. Clonar o repositório
 2. Instalar Dependências com Maven:
@@ -83,7 +83,6 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 - A API estará disponível no endereço:
 
 ```http://localhost:8080``` 
-
 
 
 ---
