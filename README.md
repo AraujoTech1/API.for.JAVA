@@ -1,4 +1,8 @@
-<h1 align="center"> API REST com Java e Spring Boot </h1>
+<p align="center">
+    <img width="100%" height="200px" src="https://blog.rocketseat.com.br/content/images/2024/03/java-3.png" alt="Java Logo">
+</p>
+
+<h1 align="center">API REST com Java e Spring Boot</h1>
 
 
 ## Descrição do Projeto
@@ -8,7 +12,7 @@ Este projeto consiste em uma **API RESTful** desenvolvida utilizando **Java 23**
 A aplicação foi construída para demonstrar a criação de endpoints, manipulação de dados e utilização de recursos como persistência e testes automatizados. O projeto é totalmente configurado com **Maven**, o que facilita o gerenciamento de dependências e a construção da aplicação.
 
 
-## Funcionalidades do Projeto
+## Funcionalidades 
 
 - **Endpoints RESTful**: O projeto oferece endpoints para realizar operações básicas de CRUD (Create, Read, Update, Delete).
 - **Persistência de Dados**: Utiliza o **Spring Data JPA** para persistir dados em um banco de dados relacional (MySQL, PostgreSQL, ou outro de sua escolha).
@@ -31,35 +35,33 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
   <img src="https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png" alt="Imagem teste" style="max-width: 500px;"/>
 </div>
 
-
 ## Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-23-orange?logoWidth=40)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-blue?logoWidth=40)
-![Maven](https://img.shields.io/badge/Maven-3.8.1-green?logoWidth=40)
-![GitHub](https://img.shields.io/badge/GitHub-API--for--JAVA-purple?logoWidth=40)
-![VS Code](https://img.shields.io/badge/VS%20Code-1.79-blue?logo=visualstudiocode&logoWidth=40)
-![Git](https://img.shields.io/badge/Git-2.39.1-orange?logo=git&logoWidth=40)
+![Java](https://img.shields.io/badge/Java-23-24292F?logoWidth=40)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-24292F?logoWidth=40)
+![Maven](https://img.shields.io/badge/Maven-3.8.1-24292F?logoWidth=40)
+![GitHub](https://img.shields.io/badge/GitHub-API--for--JAVA-24292F?logoWidth=40)
+![VS Code](https://img.shields.io/badge/VS%20Code-1.79-24292F?logo=visualstudiocode&logoWidth=40)
+![Git](https://img.shields.io/badge/Git-2.39.1-24292F?logo=git&logoWidth=40)
 
 
 ## Bibliotecas e Frameworks
 
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-blue)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-24292F)
   **Spring Boot**: Framework para criação de aplicações Java baseado no Spring.
 
-- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-2.5-blue)
+- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-2.5-24292F)
   **Spring Data JPA**: Biblioteca para persistência de dados com banco de dados relacional.
 
-- ![JUnit](https://img.shields.io/badge/JUnit-5.7.1-green)
+- ![JUnit](https://img.shields.io/badge/JUnit-5.7.1-24292F)
   **JUnit**: Framework para testes unitários.
 
-- ![Swagger](https://img.shields.io/badge/Swagger-UI-yellow)
+- ![Swagger](https://img.shields.io/badge/Swagger-UI-24292F)
   **Swagger**: Para documentação automática da API.
 
-- ![Postman](https://img.shields.io/badge/Postman-7.36-blue)
+- ![Postman](https://img.shields.io/badge/Postman-7.36-24292F)
   **Postman**: Utilizado para testar manualmente os endpoints.
 
-  
 
 ## Instruções para Execução
 
@@ -81,8 +83,6 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 - A API estará disponível no endereço:
 
 ```http://localhost:8080``` 
-
-
 
 
 
