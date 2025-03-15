@@ -43,12 +43,13 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ## ▶ Tecnologias Utilizadas
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> [Java](https://docs.oracle.com/en/java/) &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20"/> [Spring Boot](https://spring.io/projects/spring-boot) &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20" height="20"/> [Maven](https://maven.apache.org/) &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"/> [GitHub](https://github.com/AraujoTech1/API.for.JAVA) &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20"/> [VS Code](https://code.visualstudio.com/) &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"/> [Git](https://git-scm.com/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> <a href="https://docs.oracle.com/en/java/" target="_blank">Java</a> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20"/> <a href="https://spring.io/projects/spring-boot" target="_blank">Spring Boot</a> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20" height="20"/> <a href="https://maven.apache.org/" target="_blank">Maven</a> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"/> <a href="https://github.com/AraujoTech1/API.for.JAVA" target="_blank">GitHub</a> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20"/> <a href="https://code.visualstudio.com/" target="_blank">VS Code</a> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"/> <a href="https://git-scm.com/" target="_blank">Git</a>
+
 
 
 ## ▶ Bibliotecas e Frameworks
