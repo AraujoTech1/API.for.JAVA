@@ -43,12 +43,13 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ## ▶ Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-23-24292F?logoWidth=40)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-24292F?logoWidth=40)
-![Maven](https://img.shields.io/badge/Maven-3.8.1-24292F?logoWidth=40)
-![GitHub](https://img.shields.io/badge/GitHub-API--for--JAVA-24292F?logoWidth=40)
-![VS Code](https://img.shields.io/badge/VS%20Code-1.79-24292F?logo=visualstudiocode&logoWidth=40)
-![Git](https://img.shields.io/badge/Git-2.39.1-24292F?logo=git&logoWidth=40)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> [Java](https://docs.oracle.com/en/java/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20"/> [Spring Boot](https://spring.io/projects/spring-boot)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20" height="20"/> [Maven](https://maven.apache.org/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"/> [GitHub](https://github.com/AraujoTech1/API.for.JAVA)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20"/> [VS Code](https://code.visualstudio.com/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"/> [Git](https://git-scm.com/)
+
 
 
 ## ▶ Bibliotecas e Frameworks
