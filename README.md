@@ -11,14 +11,14 @@
 </div>
 
 
-## ▶ Descrição do Projeto
+## ▸ Descrição
 
 Este projeto consiste em uma **API RESTful** desenvolvida utilizando **Java 23** e **Spring Boot**. O objetivo principal é oferecer uma estrutura simples e eficiente para a criação de APIs, com foco em performance e escalabilidade.
 
 A aplicação foi construída para demonstrar a criação de endpoints, manipulação de dados e utilização de recursos como persistência e testes automatizados. O projeto é totalmente configurado com **Maven**, o que facilita o gerenciamento de dependências e a construção da aplicação.
 
 
-## ▶ Funcionalidades 
+## ▸ Funcionalidades 
 
 - **Endpoints RESTful**: O projeto oferece endpoints para realizar operações básicas de CRUD (Create, Read, Update, Delete).
 - **Persistência de Dados**: Utiliza o **Spring Data JPA** para persistir dados em um banco de dados relacional (MySQL, PostgreSQL, ou outro de sua escolha).
@@ -26,23 +26,23 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 - **Documentação Automática**: A API conta com documentação gerada automaticamente através do **Swagger**.
  
 
-## ▶ Testes de Software
+## ▸ Testes de Software
 
-### 📌 Testes de Depuração
+### Testes de Depuração
 - A aplicação inclui testes unitários básicos com **JUnit** para garantir que cada método do serviço esteja funcionando corretamente.
 
-### 📌 Testes de Funcionamento
+### Testes de Funcionamento
 - **Testes de API**: Testes de integração foram implementados utilizando o **Spring Boot Test**, garantindo que os endpoints estejam respondendo corretamente e conforme o esperado.
 - **Testes com Postman**: Endpoints foram testados manualmente com o Postman para garantir sua funcionalidade e validar a comunicação com o backend.
 
-### 📌 Captura do Teste Realizado:
+### Captura do Teste Realizado:
 
 <div align="center">
   <img src="https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png" alt="Imagem teste" style="max-width: 500px;"/>
 </div>
 
 
-## ▶ Tecnologias Utilizadas
+## ▸ Tecnologias Utilizadas
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> Java 23
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20" style="margin-left: 10px"/> Spring Boot 3.2.3
@@ -52,7 +52,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 
 
-## ▶ Bibliotecas e Frameworks
+## ▸ Bibliotecas e Frameworks
 
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-v2.5-24292F)
   **Spring Boot**: Framework para criação de aplicações Java baseado no Spring.
@@ -70,7 +70,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
   **Postman**: Utilizado para testar manualmente os endpoints.
 
 
-## ▶ Instruções para Execução
+## ▸ Instruções para Execução
 
 1. Clonar o repositório
 2. Instalar Dependências com Maven:
