@@ -1,6 +1,14 @@
-<p align="center">
-    <img width="100%" height="200px" src="https://blog.rocketseat.com.br/content/images/2024/03/java-3.png" alt="Java Logo">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="150" height="150"/>
+  <h1>☕ API REST com Java e Spring Boot ☕</h1>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> Java 23
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20" style="margin-left: 10px"/> Spring Boot 3.2.3
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20" height="20" style="margin-left: 10px"/> Maven 3.9.6
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20" style="margin-left: 10px"/> Not specified
+  </p>
+</div>
 
 <h1 align="center"> ☕ API REST com Java e Spring Boot ☕</h1>
 
