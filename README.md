@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="150" height="150"/>
-  <h1>☕ API REST com Java e Spring Boot ☕</h1>
+  <h1>API REST com Java e Spring Boot</h1>
 
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> Java 23
