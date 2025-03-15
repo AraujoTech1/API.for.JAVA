@@ -41,6 +41,7 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
   <img src="https://github.com/AraujoTech1/API.for.JAVA/blob/master/img/Captura%20de%20tela%202025-03-11%20145528.png" alt="Imagem teste" style="max-width: 500px;"/>
 </div>
 
+
 ## ▶ Tecnologias Utilizadas
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> <a href="https://docs.oracle.com/en/java/" target="_blank">Java</a> &nbsp;
