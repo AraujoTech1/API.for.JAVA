@@ -44,12 +44,11 @@ A aplicação foi construída para demonstrar a criação de endpoints, manipula
 
 ## ▶ Tecnologias Utilizadas
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> <a href="https://docs.oracle.com/en/java/" target="_blank">Java</a> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20"/> <a href="https://spring.io/projects/spring-boot" target="_blank">Spring Boot</a> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20" height="20"/> <a href="https://maven.apache.org/" target="_blank">Maven</a> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"/> <a href="https://github.com/AraujoTech1/API.for.JAVA" target="_blank">GitHub</a> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20"/> <a href="https://code.visualstudio.com/" target="_blank">VS Code</a> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20"/> <a href="https://git-scm.com/" target="_blank">Git</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" height="20"/> Java 23
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="20" height="20" style="margin-left: 10px"/> Spring Boot 3.2.3
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="20" height="20" style="margin-left: 10px"/> Maven 3.9.6
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="20" height="20" style="margin-left: 10px"/> VS Code
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" style="margin-left:10px"/> Git
 
 
 
